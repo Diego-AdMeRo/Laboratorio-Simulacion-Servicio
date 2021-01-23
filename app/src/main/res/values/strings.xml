@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Laboratorio-Simulación-Odometro</string>
+
+    <string name="btn_simulacion">Distancia Simulación</string>
+    <string name="btn_iniciar_servicio_ubicacion">Habilitar Servicio Ubicación</string>
+    <string name="btn_servicio_ubicacion">Distancia Servicio de Ubicación</string>
+
+</resources>
